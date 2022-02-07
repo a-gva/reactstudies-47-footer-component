@@ -1,0 +1,1 @@
+# reactstudies-47-footer-component
